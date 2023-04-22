@@ -1,4 +1,3 @@
-// import Table from "../components/Table"; 
 import SortableTable from "../components/SortableTable";                      
 
 function TablePage() {
@@ -23,7 +22,6 @@ const config = [
     {
         label: "Score",
         render: (item) => item.score,
-        // header: () => <th key="adf" className="bg-red-200 p-3">score header</th>
         sortValue: (item) => item.score
     }
 ];

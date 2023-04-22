@@ -30,7 +30,7 @@ function App() {
         <Route path='/table'>
           <TablePage />
         </Route>
-        <Route path='/table'>
+        <Route path='/counter'>
           <CounterPage initialCount={10} />
         </Route>
       </div>
