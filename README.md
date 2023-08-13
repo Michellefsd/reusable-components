@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# proyecto de react donde tengo componentes reutilizables para mi propio uso
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
